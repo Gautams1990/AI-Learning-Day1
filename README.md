@@ -1,5 +1,5 @@
 # AI Learning Journey – Day 1
-
+# 🧮 Python Calculator Project (Beginner AI Journey)
 ## 🔹 Topics Covered
 - Python basics (variables, loops, functions)
 - Conditional statements (if-elif)
@@ -14,6 +14,7 @@
 # 🧮 Python Calculator Project
 
 This project is a simple command-line calculator built using Python. It allows users to perform basic arithmetic operations with proper error handling.
+
 ## 🔹 Skills Used
 - Python
 - Problem solving
