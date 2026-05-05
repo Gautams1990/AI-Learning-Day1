@@ -12,7 +12,7 @@ A simple command-line calculator built using Python that performs basic arithmet
 python calculator.py
 ## 📸 Output Screenshot
 
-![Calculator Output](calculator-output.png)
+![Calculator Output](calculator_output.jpg)
 
 ## 🔮 Future Scope
 - Convert to web app using Streamlit
