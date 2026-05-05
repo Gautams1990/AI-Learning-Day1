@@ -11,7 +11,9 @@
 - Subtraction
 - Multiplication
 - Division (with error handling)
+# 🧮 Python Calculator Project
 
+This project is a simple command-line calculator built using Python. It allows users to perform basic arithmetic operations with proper error handling.
 ## 🔹 Skills Used
 - Python
 - Problem solving
