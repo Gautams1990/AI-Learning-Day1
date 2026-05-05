@@ -10,9 +10,9 @@ A simple command-line calculator built using Python that performs basic arithmet
 
 ## ▶️ How to Run
 python calculator.py
+## 📸 Output Screenshot
 
-## 📸 Output
-(Add screenshot here)
+![Calculator Output](calculator-output.png)
 
 ## 🔮 Future Scope
 - Convert to web app using Streamlit
