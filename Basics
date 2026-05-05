@@ -1,0 +1,43 @@
+#Practise of boolean values and comparison operators 
+my_string = "Hello World"
+print(my_string == "Hello World") #True
+print(my_string == "hello world") #False  
+my_string.count("o") #2
+print(my_string.count("o") == 2) #True  
+print(my_string.count("o") == 3) #False
+print(my_string.count("o") > 1) #True   
+
+True and True #True
+print(True and True) #True
+True and False #False
+print(True and False) #False
+False and True #False
+print(False and True) #False
+False and False #False
+print(False and False) #False
+True or True #True
+print(True or True) #True
+True or False #True
+print(True or False) #True
+
+
+#List  its is a collection of items which is ordered and changeable. It allows duplicate members.
+my_list = [1, 2, 3, 4, 5]     
+print(my_list) # [1, 2, 3, 4, 5]
+lst=list()
+print(lst) # []
+my_list.append(6) # [1, 2, 3, 4, 5, 6]
+print(my_list) # [1, 2, 3, 4, 5, 6]
+my_list.append(7) # [1, 2, 3, 4, 5, 6, 7]
+print(my_list) # [1, 2, 3, 4, 5, 6, 7]
+my_list.append(8) # [1, 2, 3, 4, 5, 6, 7, 8]
+print(my_list) # [1, 2, 3, 4, 5 6, 7, 8]
+my_list.append(9) # [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+lst("Hello") # ['Hello']
+print(lst) # ['Hello']
+lst("World") # ['Hello', 'World']
+print(lst) # ['Hello', 'World']
+ # inbuilt funtion of list 
+lst=[1, ['Hello', 'World'], 2]
+print(lst[1])  # ['Hello', 'World', 2]
+lst[2]
