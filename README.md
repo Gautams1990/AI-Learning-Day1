@@ -1,35 +1,19 @@
-# AI Learning Journey – Day 1
-# 🧮 Python Calculator Project (Beginner AI Journey)
-## 🔹 Topics Covered
-- Python basics (variables, loops, functions)
-- Conditional statements (if-elif)
-- User input handling
+# 🧮 Python Calculator
 
-## 🔹 Mini Project
-**Simple Calculator**
+A simple command-line calculator built using Python. It performs basic arithmetic operations with proper error handling.
+
+## 🚀 Features
 - Addition
 - Subtraction
 - Multiplication
-- Division (with error handling)
-# 🧮 Python Calculator Project
+- Division (with zero error handling)
 
-This project is a simple command-line calculator built using Python. It allows users to perform basic arithmetic operations with proper error handling.
+## ▶️ How to Run
+python calculator.py
 
-## 🔹 Skills Used
+## 🛠️ Tech Used
 - Python
-- Problem solving
-- Basic logic building
-- ## 🔹 How It Works
-- User enters two numbers
-- User selects an operation (+, -, *, /)
-- Program performs the selected operation
-- Handles division by zero errors
 
-## 🔹 Sample Output
-Enter first number: 10  
-Enter second number: 2  
-Enter operation (+, -, *, /): +  
-Output: 12
-
-## 🔹 Author
-Gautam Sharma
+## 📌 Future Improvements
+- Add GUI using Streamlit
+- Convert to web app
