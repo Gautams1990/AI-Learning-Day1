@@ -1,6 +1,6 @@
-# 🧮 Python Calculator
+# 🧮 Python Calculator Project
 
-A simple command-line calculator built using Python. It performs basic arithmetic operations with proper error handling.
+A simple command-line calculator built using Python that performs basic arithmetic operations with error handling.
 
 ## 🚀 Features
 - Addition
@@ -11,9 +11,9 @@ A simple command-line calculator built using Python. It performs basic arithmeti
 ## ▶️ How to Run
 python calculator.py
 
-## 🛠️ Tech Used
-- Python
+## 📸 Output
+(Add screenshot here)
 
-## 📌 Future Improvements
-- Add GUI using Streamlit
-- Convert to web app
+## 🔮 Future Scope
+- Convert to web app using Streamlit
+- Build AI chatbot integration
