@@ -14,6 +14,12 @@ python calculator.py
 
 ![Calculator Output](calculator_output.jpg)
 
+## 🧠 What I Learned
+- Python basics
+- Conditional logic
+- Functions
+- Error handling
+
 ## 🔮 Future Scope
 - Convert to web app using Streamlit
 - Build AI chatbot integration
